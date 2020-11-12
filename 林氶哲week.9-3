@@ -1,0 +1,174 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled5.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyON+0p3GkBLvfHWO2TjP7c9",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SebastianK02/Computational-Thinking/blob/master/%E6%9E%97%E6%B0%B6%E5%93%B2week.9-3\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "psEb3WxNZbFn",
+        "outputId": "ea10e66a-afe6-48cd-b6f6-4f36b043788f",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "7\n",
+            "-3\n",
+            "10\n",
+            "0.4\n",
+            "0\n",
+            "32\n",
+            "2\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "jMaNdGT2aiNc",
+        "outputId": "e10ffd9d-4182-4712-97e1-25135b790de7",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 56
+        }
+      },
+      "source": [
+        "input(\"請輸入數字？    \")"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "請輸入數字？    23042524\n"
+          ],
+          "name": "stdout"
+        },
+        {
+          "output_type": "execute_result",
+          "data": {
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            },
+            "text/plain": [
+              "'23042524'"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 4
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "miFVDCwCavDB",
+        "outputId": "72d36130-b6ee-4e06-e13b-3e8afdf1d830",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        "x = input(\"請輸入數字？   \")"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "請輸入數字？   4\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "pyREbpPGbR56",
+        "outputId": "a77fd412-4fe5-4db3-8fe1-7ec16fb72d95",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 38
+        }
+      },
+      "source": [
+        "x"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            },
+            "text/plain": [
+              "'4'"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "sDLIP_WybljP",
+        "outputId": "969b4e9a-4ab7-49e7-aadf-8861fa2d7234",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        "print(x, 345, \"benjikrol\")"
+      ],
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "4 345 benjikrol\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
